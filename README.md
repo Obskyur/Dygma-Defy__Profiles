@@ -46,13 +46,13 @@
 
 <!-- Layers -->
 <h2 id="layers" align="center">
-  <img src="/images/layers.png" width="30px"></img>
+  <img src="./images/layers.png" width="30px"></img>
   Layers
 </h2>
 
 <details>
 <summary id="layer-1"><strong> Layer 1 - Base Layer </strong></summary>
-<img src="/images/L1-Base.png" width="100%" align="center"></img>
+<img src="./images/L1-Base.png" width="100%" align="center"></img>
 <ul>
   <li> Keeps true to standard Eng: US-QWERTY layout for the most part </li>
   <li> Thumb cluster allows use of all modifiers, Spacebar, and Enter </li>
@@ -67,7 +67,7 @@
 
 <details>
 <summary id="layer-2"><strong> Layer 2 - Symbols </strong></summary>
-<img src="/images/L2-Symbols.png" width="100%" align="center"></img>
+<img src="./images/L2-Symbols.png" width="100%" align="center"></img>
 <ul>
   <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
   <li> Num keys -> Function keys </li>
@@ -79,7 +79,7 @@
 
 <details>
 <summary id="layer-3"><strong> Layer 3 - Navigation / Numpad </strong></summary>
-<img src="/images/L3-Nav_Num.png" width="100%" align="center"></img>
+<img src="./images/L3-Nav_Num.png" width="100%" align="center"></img>
 <ul>
   <li> Use cases: data insertion, calculation, code / webpage navigation </li>
   <li> Arrow key and numpad placement don't require changing homerow positioning </li>
@@ -89,7 +89,7 @@
 
 <details>
 <summary id="layer-4"><strong> Layer 4 - Gaming </strong></summary>
-<img src="/images/L4-Gaming.png" width="100%" align="center"></img>
+<img src="./images/L4-Gaming.png" width="100%" align="center"></img>
 <ul>
   <li> Top 2 Alphakey rows shifted 1 right </li>
   <ul>
@@ -106,18 +106,18 @@
 
 <!-- Macros -->
 <h2 id="layers" align="center">
-  <img src="/images/macros.png" width="30px"></img>
+  <img src="./images/macros.png" width="30px"></img>
   Macros
 </h2>
 
 <!-- Superkeys -->
 <h2 id="layers" align="center">
-  <img src="/images/superkeys.png" width="30px"></img>
+  <img src="./images/superkeys.png" width="30px"></img>
   Superkeys
 </h2>
 
 <!-- Preferences -->
 <h2 id="layers" align="center">
-  <img src="/images/preferences.png" width="30px"></img>
+  <img src="./images/preferences.png" width="30px"></img>
   Preferences
 </h2>
