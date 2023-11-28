@@ -53,6 +53,7 @@
 <details>
 <summary id="layer-1"><strong> Layer 1 - Base Layer </strong></summary>
 <img src="./images/L1-Base.png" width="100%" align="center"></img>
+<a id="raw-url" href="https://github.com/Obskyur/Dygma-Defy__Profiles/blob/main/layers/Base.json" text-align="center">Click to Download </a>
 <ul>
   <li> Keeps true to standard Eng: US-QWERTY layout for the most part </li>
   <li> Thumb cluster allows use of all modifiers, Spacebar, and Enter </li>
