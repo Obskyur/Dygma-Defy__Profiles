@@ -53,7 +53,7 @@
 <details>
 <summary id="layer-1"><strong> Layer 1 - Base Layer </strong></summary>
 <img src="./images/L1-Base.png" width="100%" align="center"></img>
-<a id="raw-url" href="https://github.com/Obskyur/Dygma-Defy__Profiles/blob/main/layers/Base.json" text-align="center">Click to Download </a>
+<a id="raw-url" href="./layers/Base.json" text-align="center">Click to Download Layer</a>
 <ul>
   <li> Keeps true to standard Eng: US-QWERTY layout for the most part </li>
   <li> Thumb cluster allows use of all modifiers, Spacebar, and Enter </li>
@@ -69,6 +69,7 @@
 <details>
 <summary id="layer-2"><strong> Layer 2 - Symbols </strong></summary>
 <img src="./images/L2-Symbols.png" width="100%" align="center"></img>
+<a id="raw-url" href="./layers/Base.json" text-align="center">Click to Download Layer</a>
 <ul>
   <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
   <li> Num keys -> Function keys </li>
@@ -81,6 +82,7 @@
 <details>
 <summary id="layer-3"><strong> Layer 3 - Navigation / Numpad </strong></summary>
 <img src="./images/L3-Nav_Num.png" width="100%" align="center"></img>
+<a id="raw-url" href="./layers/Base.json" text-align="center">Click to Download Layer</a>
 <ul>
   <li> Use cases: data insertion, calculation, code / webpage navigation </li>
   <li> Arrow key and numpad placement don't require changing homerow positioning </li>
@@ -91,6 +93,7 @@
 <details>
 <summary id="layer-4"><strong> Layer 4 - Gaming </strong></summary>
 <img src="./images/L4-Gaming.png" width="100%" align="center"></img>
+<a id="raw-url" href="./layers/Base.json" text-align="center">Click to Download Layer</a>
 <ul>
   <li> Top 2 Alphakey rows shifted 1 right </li>
   <ul>
@@ -111,11 +114,29 @@
   Macros
 </h2>
 
+- PW is my base password macro, which I will not be sharing :)
+- TODO: Macro to open chat and swap to L1 for L4?
+
 <!-- Superkeys -->
 <h2 id="layers" align="center">
   <img src="./images/superkeys.png" width="30px"></img>
   Superkeys
 </h2>
+
+- PW uses PW macro on 2Tap & Hold to prevent accidental usage
+<details>
+<summary id="media-sk">
+  <strong> Media </strong>
+  <img src="./images/media-sk.png" width="100%" align="center"></img>
+</summary>
+
+➤ Tap:         Lock L1
+➤ Hold:        Lock L3
+➤ Tap & Hold:  Lock L4
+➤ 2Tap:        Lock L4
+➤ 2Tap & Hold: No Key
+
+</details>
 
 <!-- Preferences -->
 <h2 id="layers" align="center">
