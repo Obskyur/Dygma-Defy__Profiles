@@ -130,6 +130,7 @@
     <strong> Media </strong>
     <img src="./images/media-sk.png" width="100%" align="center"></img>
   </summary>
+  
   | Action | Function|
   | :--- | :--- |
   | Tap | Play / Pause |
@@ -144,6 +145,7 @@
     <strong> Layers </strong>
     <img src="./images/layers-sk.png" width="100%" align="center"></img>
   </summary>
+
   | Action | Function|
   | :--- | :--- |
   | Tap | Lock L1 |
@@ -163,6 +165,7 @@
   <summary>
     <strong> LED </strong>
   </summary>
+
   | Setting | Preference |
   | :--- | :--- |
   | Timeout | 10m |
@@ -177,7 +180,7 @@
   - These will still need to be fine-tuned
   
   | Setting | Preference |
-  | :--- | :--- |
+  | :--- | :---: |
   | Dual-Function Overlap | 80 |
   | Dual-Function Hold Timeout | 70 |
   | Superkey Tap Timeout | 180 |
