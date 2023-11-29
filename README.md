@@ -69,7 +69,7 @@
 <details>
   <summary id=""><strong> Layer 2 - Symbols </strong></summary>
 
-  <img src="./images/test.png" width="100%" align="center"></img>
+  <img src="./images/L2-Symbols.png" width="100%" align="center"></img>
 
   <a href="./layers/Symbols.json"> Click to Download Layer </a>
 
@@ -77,19 +77,26 @@
     <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
     <li> Num keys -> Function keys </li>
     <li> Arithmetic symbols colored ${\textsf{\color{blue}blue}}$ </li>
-    <li> String demarcating symbols colored ${\textsf{\color{green}green}}$ </li>
+    <!-- <li> String demarcating symbols colored ${\textsf{\color{green}green}}$ </li> -->
     <li> Thumb cluster mostly kept true to Base Layer except <a href="#layer-sk">Layer Superkey</a> which allows traveresal to L1, L3, or L4 as needed </li>
   </ul>
 </details>
 
-<details>
+<!-- <details>
   <summary id="layer-2"><strong> Layer 2 - Test </strong></summary>
-
   <img src="./images/L2-Symbols.png" width="100%" align="center"></img>
-
   <a href="./layers/Symbols.json">Click to Download Layer</a>
-  
-</details>
+  <ul>
+    <li> Keeps true to standard Eng: US-QWERTY layout for the most part </li>
+    <li> Thumb cluster allows use of modifiers, Spacebar, and Enter </li>
+    <li> Shift L2 allows quick access to Symbols </li>
+    <li> OSL L3 allows me to quickly access by holding OR lock to my numpad as needed by double-tapping </li>
+    <li> CapsLock -> Backspace </li>
+    <li> Fast access to Home / End allow navigation to beginning / end of lines in code </li>
+    <li> Backspace / Delete subject to change if they seem inconvenient </li>
+    <li> <a href="#media-sk">Media Superkey</a> allows typical Play/Pause, Skip, Back -- as well as brightness adjustment </li>
+  </ul>
+</details> -->
 
 <details>
   <summary id="layer-3"><strong> Layer 3 - Navigation / Numpad </strong></summary>
