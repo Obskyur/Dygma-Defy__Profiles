@@ -30,7 +30,7 @@
     <ul>
       <li> These layers are all generally-useful. None are highly specialized for specific uses / programs (yet) </li>
     </ul>
-    <li> For early learning, keys are colored based on their type:  </li>
+    <li> For early learning, keys are colored based on their type: </li>
     <ul>
       <li> 🩷 ${\textsf{\color{magenta}Symbols}}$ </li>
       <li> ❤️ ${\textsf{\color{red}Deletions / Escapes}}$ </li>
@@ -73,6 +73,7 @@
   <ul>
     <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
     <li> Num keys -> Function keys </li>
+    <li> $$x=\frac{y^2}{2}$$ </li>
     <li> Arithmetic symbols colored blue 💙 </li>
     <li> Thumb cluster mostly kept true to Base Layer except <a href="#layer-sk">Layer Superkey</a> which allows traveresal to L1, L3, or L4 as needed </li>
   </ul>
