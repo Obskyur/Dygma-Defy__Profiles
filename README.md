@@ -130,7 +130,7 @@
     <strong> Media </strong>
     <img src="./images/media-sk.png" width="100%" align="center"></img>
   </summary>
-  
+
   | Action | Function|
   | :--- | :--- |
   | Tap | Play / Pause |
@@ -191,5 +191,5 @@
   <summary>
     <strong> Mouse Keys </strong>
   </summary>
-  - Unchanged from default
+  - Default
 </details>
