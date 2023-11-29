@@ -68,7 +68,7 @@
 
 <details>
   <summary id=""><strong> Layer 2 - Symbols </strong></summary>
-  <img src="./images/L2-Symbols.png" width="100%" align="center"></img>
+  <img src="https://raw.githubusercontent.com/Obskyur/Dygma-Defy__Profiles/L2testing/images/L2-Symbols.png" width="100%" align="center"></img>
   <a href="./layers/Symbols.json"> Click to Download Layer </a>
   <ul>
     <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
