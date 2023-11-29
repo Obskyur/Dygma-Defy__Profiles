@@ -56,7 +56,7 @@
   <a id="raw-url" href="./layers/Base.json" text-align="center">Click to Download Layer</a>
   <ul>
     <li> Keeps true to standard Eng: US-QWERTY layout for the most part </li>
-    <li> Thumb cluster allows use of all modifiers, Spacebar, and Enter </li>
+    <li> Thumb cluster allows use of modifiers, Spacebar, and Enter </li>
     <li> Shift L2 allows quick access to Symbols </li>
     <li> OSL L3 allows me to quickly access by holding OR lock to my numpad as needed by double-tapping </li>
     <li> CapsLock -> Backspace </li>
