@@ -130,11 +130,13 @@
   <img src="./images/media-sk.png" width="100%" align="center"></img>
 </summary>
 
-<br> ➡️ Tap:         Play / Pause 
-<br> ➡️ Hold:        Back
-<br> ➡️ Tap & Hold:  Defy Brightness +
-<br> ➡️ 2Tap:        Skip
-<br> ➡️ 2Tap & Hold: Defy Brightness -
+| Action | Function|
+| :--- | :--- |
+| Tap | Play / Pause |
+| Hold | Back |
+| Tap & Hold | Defy Brightness + |
+| 2Tap | Skip |
+| 2Tap & Hold | Defy Brightness - |
 
 </details>
 
