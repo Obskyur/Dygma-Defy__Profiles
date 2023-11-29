@@ -53,7 +53,7 @@
 <details>
   <summary id="layer-1"><strong> Layer 1 - Base Layer </strong></summary>
   <img src="./images/L1-Base.png" width="100%" align="center"></img>
-  <a id="raw-url" href="./layers/Base.json" text-align="center">Click to Download Layer</a>
+  <a href="./layers/Base.json" text-align="center">Click to Download Layer</a>
   <ul>
     <li> Keeps true to standard Eng: US-QWERTY layout for the most part </li>
     <li> Thumb cluster allows use of modifiers, Spacebar, and Enter </li>
@@ -69,7 +69,7 @@
 <details>
   <summary id="layer-2"><strong> Layer 2 - Symbols </strong></summary>
   <img src="./images/L2-Symbols.png" width="100%" align="center"></img>
-  <a id="raw-url" href="./layers/Base.json" text-align="center">Click to Download Layer</a>
+  <a href="./layers/Base.json" text-align="center">Click to Download Layer</a>
   <ul>
     <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
     <li> Num keys -> Function keys </li>
@@ -82,7 +82,7 @@
 <details>
   <summary id="layer-3"><strong> Layer 3 - Navigation / Numpad </strong></summary>
   <img src="./images/L3-Nav_Num.png" width="100%" align="center"></img>
-  <a id="raw-url" href="./layers/Base.json" text-align="center">Click to Download Layer</a>
+  <a href="./layers/Base.json" text-align="center">Click to Download Layer</a>
   <ul>
     <li> Use cases: data insertion, calculation, code / webpage navigation </li>
     <li> Arrow key and numpad placement don't require changing homerow positioning </li>
@@ -93,7 +93,7 @@
 <details>
   <summary id="layer-4"><strong> Layer 4 - Gaming </strong></summary>
   <img src="./images/L4-Gaming.png" width="100%" align="center"></img>
-  <a id="raw-url" href="./layers/Base.json" text-align="center">Click to Download Layer</a>
+  <ahref="./layers/Base.json" text-align="center">Click to Download Layer</a>
   <ul>
     <li> Top 2 Alphakey rows shifted 1 right </li>
     <ul>
