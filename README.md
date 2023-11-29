@@ -68,13 +68,12 @@
 
 <details>
   <summary id=""><strong> Layer 2 - Symbols </strong></summary>
-  <img src="https://raw.githubusercontent.com/Obskyur/Dygma-Defy__Profiles/L2testing/images/L2-Symbols.png" width="100%" align="center"></img>
-  <a href="./layers/Symbols.json"> Click to Download Layer </a>
+  <img src="https://raw.githubusercontent.com/Obskyur/Dygma-Defy__Profiles/main/images/L2-Symbols.png" width="100%" align="center"></img>
+  <a href="https://github.com/Obskyur/Dygma-Defy__Profiles/blob/main/layers/Symbols.json"> Click to Download Layer </a>
   <ul>
     <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
     <li> Num keys -> Function keys </li>
-    <li> $$x=\frac{y^2}{2}$$ </li>
-    <li> Arithmetic symbols colored blue 💙 </li>
+    <li> Arithmetic symbols colored ${\textsf{\color{blue}blue}}$ </li>
     <li> Thumb cluster mostly kept true to Base Layer except <a href="#layer-sk">Layer Superkey</a> which allows traveresal to L1, L3, or L4 as needed </li>
   </ul>
 </details>
