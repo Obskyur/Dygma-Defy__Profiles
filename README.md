@@ -140,6 +140,22 @@
 
 </details>
 
+<details>
+<summary id="layers-sk">
+  <strong> Layers </strong>
+  <img src="./images/layers-sk.png" width="100%" align="center"></img>
+</summary>
+
+| Action | Function|
+| :--- | :--- |
+| Tap | Lock L1 |
+| Hold | Lock L2 |
+| Tap & Hold | Lock L4 |
+| 2Tap | Lock L4 |
+| 2Tap & Hold | No Key |
+
+</details>
+
 <!-- Preferences -->
 <h2 id="layers" align="center">
   <img src="./images/preferences.png" width="30px"></img>
