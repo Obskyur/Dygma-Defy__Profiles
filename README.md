@@ -86,7 +86,7 @@
   <ul>
     <li> Use cases: data insertion, calculation, code / webpage navigation </li>
     <li> Arrow key and numpad placement don't require changing homerow positioning </li>
-    <li> Alt -> Ctrl + Shift for quick text selection </li>
+    <li> Add Ctrl + Shift to left thumb cluster for quick text selection </li>
   </ul>
 </details>
 
