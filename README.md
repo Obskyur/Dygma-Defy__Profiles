@@ -74,8 +74,8 @@
     <ul>
       <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
       <li> Num keys -> Function keys </li>
-      <li> Arithmetic symbols colored ${\textsf{\color{blue}blue}}$ </li>
-      <li> String demarcating symbols colored ${\textsf{\color{green}green}}$ </li>
+      <li> Arithmetic symbols colored ${\textsf{\color{blue}blue }}$ </li><br>
+      <li> String demarcating symbols colored ${\textsf{\color{green}green }}$ </li><br>
       <li> Thumb cluster mostly kept true to Base Layer except <a href="#layer-sk">Layer Superkey</a> which allows traveresal to L1, L3, or L4 as needed </li>
     </ul>
   </div>
