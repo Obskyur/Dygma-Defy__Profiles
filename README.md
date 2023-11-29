@@ -114,8 +114,8 @@
   Macros
 </h2>
 
-- PW is my base password macro, which I will not be sharing :)
-- TODO: Macro to open chat and swap to L1 for L4?
+➡️ PW is my base password macro, which I will not be sharing :) <br>
+➡️ TODO: Macro to open chat and swap to L1 for L4? <br>
 
 <!-- Superkeys -->
 <h2 id="layers" align="center">
@@ -123,18 +123,18 @@
   Superkeys
 </h2>
 
-- PW uses PW macro on 2Tap & Hold to prevent accidental usage
+➡️ PW uses PW macro on 2Tap & Hold to prevent accidental usage
 <details>
 <summary id="media-sk">
   <strong> Media </strong>
   <img src="./images/media-sk.png" width="100%" align="center"></img>
 </summary>
 
-➤ Tap:         Lock L1
-➤ Hold:        Lock L3
-➤ Tap & Hold:  Lock L4
-➤ 2Tap:        Lock L4
-➤ 2Tap & Hold: No Key
+<br> ➡️ Tap:         Play / Pause 
+<br> ➡️ Hold:        Back
+<br> ➡️ Tap & Hold:  Defy Brightness +
+<br> ➡️ 2Tap:        Skip
+<br> ➡️ 2Tap & Hold: Defy Brightness -
 
 </details>
 
