@@ -70,13 +70,15 @@
   <summary id=""><strong> Layer 2 - Symbols </strong></summary>
   <img src="./images/L2-Symbols.png" width="100%" align="center"></img>
   <a href="./layers/Symbols.json"> Click to Download Layer </a>
-  <ul>
-    <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
-    <li> Num keys -> Function keys </li>
-    <!-- <li> Arithmetic symbols colored ${\textsf{\color{blue}blue}}$ </li> -->
-    <!-- <li> String demarcating symbols colored ${\textsf{\color{green}green}}$ </li> -->
-    <li> Thumb cluster mostly kept true to Base Layer except <a href="#layer-sk">Layer Superkey</a> which allows traveresal to L1, L3, or L4 as needed </li>
-  </ul>
+  <p>
+    <ul>
+      <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
+      <li> Num keys -> Function keys </li>
+      <li> Arithmetic symbols colored ${\textsf{\color{blue}blue}}$ </li>
+      <li> String demarcating symbols colored ${\textsf{\color{green}green}}$ </li>
+      <li> Thumb cluster mostly kept true to Base Layer except <a href="#layer-sk">Layer Superkey</a> which allows traveresal to L1, L3, or L4 as needed </li>
+    </ul>
+  </p>
 </details>
 
 <details>
