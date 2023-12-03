@@ -6,8 +6,8 @@
 
 <details open="open">
   <summary>Table of Contents</summary>
-  <a href="general"><strong> ➤ General </strong></a><br>
-  <a href="layers"><strong> ➤ Layers </strong></a>
+  <a href="#general"><strong> ➤ General </strong></a><br>
+  <a href="#layers"><strong> ➤ Layers </strong></a>
   <ol>
     <li><a href="#layer-1"> Layer 1 - Base Layer </a></li>
     <li><a href="#layer-2"> Layer 2 - Symbols </a></li>
