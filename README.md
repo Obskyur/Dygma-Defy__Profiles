@@ -68,10 +68,11 @@
 
 <details>
   <summary id=""><strong> Layer 2 - Symbols </strong></summary>
-
+<!-- https://raw.githubusercontent.com/Obskyur/Dygma-Defy__Profiles/main/images/L2-Symbols.png -->
+<!-- https://github.com/Obskyur/Dygma-Defy__Profiles/blob/main/layers/Symbols.json -->
   <!-- Hard links used because LaTeX rendering in this block will break relative links -->
-  <img src="https://raw.githubusercontent.com/Obskyur/Dygma-Defy__Profiles/main/images/L2-Symbols.png" width="100%" align="center"></img>
-  <a href="https://github.com/Obskyur/Dygma-Defy__Profiles/blob/main/layers/Symbols.json"> Click to Download Layer </a>
+  <img src="./images/L2-Symbols.png" width="100%" align="center"></img>
+  <a href="./layers/Symbols.json"> Click to Download Layer </a>
   
   <ul>
     <li> Most commonly used symbols placed near dominant fingers (brackets for coding) </li>
